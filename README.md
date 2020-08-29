@@ -1,2 +1,3 @@
-# aprendizaje
-Hoja de ruta para una formación autodidacta en Programación / Ciencias de la Computación
+# Enlaces
+
+- [OSSU](https://github.com/ossu/computer-science) Open Source Society University
